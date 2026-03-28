@@ -53,7 +53,6 @@ I’m a passionate developer focused on building real-world web applications usi
 
 ## 📈 What I’m Doing
 
-- Improving Data Structures & Algorithms
 - Building full-stack projects
 - Preparing for software developer roles
 
@@ -69,7 +68,7 @@ I’m a passionate developer focused on building real-world web applications usi
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn link]
+- LinkedIn: [(https://www.linkedin.com/in/chandrasekhar-sathavalli-link/)]
 - GitHub: https://github.com/[your-username]
 - Email: [your email]
 
